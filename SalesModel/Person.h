@@ -14,6 +14,7 @@ namespace SalesModel {
         property String^ Address;
         property String^ PhoneNumber;
         property String^ Email;
-        property char Status;
+        property char Status;       
+        //AEAAAAAAAAAAAAAAAAAAAAAAAAAA
     };
 }
